@@ -14,7 +14,7 @@ printf("%d is an even number");
 }
 else
 {
-printf("%d" is an odd number");
+printf("%d is an odd number");
 }
 printf("do you need to check for another number");
 ch=getche();
